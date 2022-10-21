@@ -1,4 +1,4 @@
-# Advanced Sample Hardhat Project
+# Smart Contract Security 101
 
 This project demonstrates an advanced Hardhat use case, integrating other tools commonly used alongside Hardhat in the ecosystem.
 
